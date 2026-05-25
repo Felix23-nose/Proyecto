@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ecoroute.model","l":"Contenedor"},{"p":"com.ecoroute.model","l":"Operario"},{"p":"com.ecoroute.model","l":"Recogida"},{"p":"com.ecoroute.model","l":"Ruta"},{"p":"com.ecoroute.model","l":"Vehiculo"}];updateSearchResults();
